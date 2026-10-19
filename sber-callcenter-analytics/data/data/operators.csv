@@ -1,0 +1,41 @@
+operator.id,departament,grade
+OP_100,кредитование,middle
+OP_101,кредитование,middle
+OP_102,техподдержка,middle
+OP_103,дебетовые карты,middle
+OP_104,дебетовые карты,middle
+OP_105,дебетовые карты,senior
+OP_106,кредитование,junior
+OP_107,претензии,middle
+OP_108,кредитование,middle
+OP_109,претензии,middle
+OP_110,сберонлайн,senior
+OP_111,кредитование,middle
+OP_112,кредитование,middle
+OP_113,кредитование,junior
+OP_114,дебетовые карты,junior
+OP_115,дебетовые карты,junior
+OP_116,претензии,junior
+OP_117,претензии,junior
+OP_118,кредитование,junior
+OP_119,претензии,junior
+OP_120,дебетовые карты,middle
+OP_121,претензии,junior
+OP_122,сберонлайн,junior
+OP_123,дебетовые карты,junior
+OP_124,сберонлайн,junior
+OP_125,претензии,senior
+OP_126,техподдержка,middle
+OP_127,кредитование,middle
+OP_128,дебетовые карты,junior
+OP_129,сберонлайн,middle
+OP_130,техподдержка,junior
+OP_131,техподдержка,junior
+OP_132,дебетовые карты,senior
+OP_133,дебетовые карты,middle
+OP_134,техподдержка,middle
+OP_135,кредитование,middle
+OP_136,кредитование,middle
+OP_137,сберонлайн,middle
+OP_138,кредитование,junior
+OP_139,техподдержка,junior

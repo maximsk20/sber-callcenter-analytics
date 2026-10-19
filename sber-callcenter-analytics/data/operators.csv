@@ -1,0 +1,41 @@
+operator_id,department,grade,shift
+OP_100,Кредитование,Middle,Night
+OP_101,Кредитование,Middle,Night
+OP_102,Техподдержка СберОнлайн,Middle,Day
+OP_103,Дебетовые карты,Senior,Night
+OP_104,Дебетовые карты,Middle,Day
+OP_105,Дебетовые карты,Middle,Day
+OP_106,Кредитование,Junior,Night
+OP_107,Кредитование,Junior,Night
+OP_108,Претензии,Junior,Night
+OP_109,Кредитование,Junior,Night
+OP_110,Кредитование,Junior,Day
+OP_111,Кредитование,Junior,Day
+OP_112,Дебетовые карты,Junior,Night
+OP_113,Дебетовые карты,Middle,Day
+OP_114,Кредитование,Junior,Day
+OP_115,Дебетовые карты,Junior,Day
+OP_116,Претензии,Junior,Day
+OP_117,Дебетовые карты,Junior,Day
+OP_118,Претензии,Senior,Night
+OP_119,Техподдержка СберОнлайн,Middle,Day
+OP_120,Кредитование,Middle,Night
+OP_121,Дебетовые карты,Junior,Night
+OP_122,Претензии,Middle,Night
+OP_123,Техподдержка СберОнлайн,Junior,Night
+OP_124,Техподдержка СберОнлайн,Junior,Day
+OP_125,Дебетовые карты,Senior,Day
+OP_126,Дебетовые карты,Middle,Night
+OP_127,Техподдержка СберОнлайн,Middle,Night
+OP_128,Кредитование,Middle,Day
+OP_129,Кредитование,Middle,Night
+OP_130,Претензии,Middle,Night
+OP_131,Кредитование,Junior,Day
+OP_132,Техподдержка СберОнлайн,Junior,Night
+OP_133,Техподдержка СберОнлайн,Junior,Day
+OP_134,Техподдержка СберОнлайн,Junior,Night
+OP_135,Кредитование,Junior,Day
+OP_136,Претензии,Senior,Day
+OP_137,Кредитование,Senior,Night
+OP_138,Претензии,Junior,Day
+OP_139,Кредитование,Middle,Day

@@ -1,0 +1,15 @@
+services:
+    db:
+        image: postgres:15-alpine
+        container_name: sber_postgres_db
+        environment:
+            POSTGRES_USER: sber_user
+            POSTGRES_PASSWORD: sber_password
+            POSTGRES_DB: contact_center
+        ports:
+            - "5432:5432"
+        volumes:
+            - pgdata:/var/lib/postgresql/data
+
+volumes:
+    pgdata:
